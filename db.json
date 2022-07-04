@@ -1,5 +1,17 @@
 {
   "clientes": [],
-  "prestadores": [],
+  "prestadores": [
+    {
+      "nome": "Diego",
+      "cpf": "00000000000",
+      "dataNasc": "2/8/2001",
+      "telefone": "(93) 99999-8877",
+      "email": "diego@medeiros.com",
+      "senha": "123456",
+      "endereco": "Rua Num sei das quantas Manascrei 58077418 56",
+      "horarioDisponibilidade": "12:30",
+      "id": 1
+    }
+  ],
   "comentarios": []
 }
